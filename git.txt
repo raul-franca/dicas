@@ -1,0 +1,34 @@
+
+config basicas: 
+$ git config --global user.name "Fulano da Silva"
+$ git config --global user.email fulanodasilva.git@gmail.com
+
+Criando um repositório:
+dentro da pasta do novo repositório
+$ git init
+
+Rastreando o arquivo:
+
+$ git status
+
+Para que o arquivo seja rastreado, devemos executar o seguinte comando:
+
+$ git add {nome do arquivo} 
+
+Para rastrearmos a modificação, devemos executar o comando git add novamente:
+
+$ git add {nome do arquivo}
+
+Rastreando e gravando as alterações no repositório:
+
+para rastrear a modificação 
+$ git add {nome do arquivo}
+
+Com a modificação rastreada, podemos gravá-la no repositório,
+com o comando git commit:
+
+$ git commit -m {descrição da modificação} 
+
+Verificando alterações realizadas:
+
+$ git log

@@ -27,8 +27,59 @@ $ git add {nome do arquivo}
 Com a modificação rastreada, podemos gravá-la no repositório,
 com o comando git commit:
 
-$ git commit -m {descrição da modificação} 
+$ git commit -m "descrição da modificação"
 
 Verificando alterações realizadas:
 
 $ git log
+
+Apontando seu projeto para o GitHub
+
+$ git remote add origin https://github.com/raul-franca/dicas.git
+
+Enviando as alterações para o GitHub:
+
+$ git push origin master
+
+Obtendo projeto do GitHub:
+
+$ git clone {endereço do gitHub}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

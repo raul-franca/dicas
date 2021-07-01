@@ -44,7 +44,7 @@ $ git push origin master
 Obtendo projeto do GitHub:
 
 $ git clone {endereço do gitHub}
-
+...
 
 
 

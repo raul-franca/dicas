@@ -1,0 +1,25 @@
+
+config básicas: 
+ git config --global user.name "Raul França"
+ git config --global user.email raulmfranca@gmail.com
+
+Para visualizar: 
+ git config --list
+
+Criando um repositório:
+ git init
+
+Mostra o status dos arquivo:s 
+ git status 
+
+Adiciona a o monitoramento: 
+ git add <file> ou 
+ git add -A <-- add todos os arquivos de uma vez
+
+Para dar um commit: 
+ git commit -m “[descriptive message]”
+
+Ver commits:
+git log
+
+diretório para acesso rápido a dicas, helps próprios e links para relembrar comando e duvidas que eu ja tive

@@ -1,11 +1,17 @@
 
-config basicas: 
+config básicas: 
 $ git config --global user.name "Fulano da Silva"
 $ git config --global user.email fulanodasilva.git@gmail.com
 
+Para visualizar: 
+git config --list
+
 Criando um repositório:
-dentro da pasta do novo repositório
+dentro do diretório do novo repositório
 $ git init
+
+Podemos executar $ git init <diretório>, se quisermos criar 
+um diretório vazio que já é um repositório Git,
 
 Rastreando o arquivo:
 

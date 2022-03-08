@@ -1,12 +1,18 @@
 
+git status 
+git add -A 
+git commit -m “[descriptive message]”
+git push <destino> master 
+
+
 config básicas: 
  git config --global user.name "Raul França"
  git config --global user.email raulmfranca@gmail.com
 
-Para visualizar: 
+Para visualizar as configurações : 
  git config --list
 
-Criando um repositório:
+Criando um novo repositório:
  git init
 
 Mostra o status dos arquivos: 
@@ -18,7 +24,9 @@ Adiciona a o monitoramento:
 
 Para dar um commit: 
  git commit -m “[descriptive message]”
+ git commit -am “[descriptive message]” <-- add e commit !cuidado na hora do git push ele não manda novos arquivos 
 
 Ver commits:
 git log
+  
 	

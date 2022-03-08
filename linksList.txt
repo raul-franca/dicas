@@ -1,0 +1,16 @@
+LIST OF IMPORTANTS  HELP LINKS 
+
+-Tutorias e documentação 
+
+# https://devdocs.io
+# https://www.geeksforgeeks.org
+# https://www.tutorialspoint.com
+-Templetes e exemplos 
+
+# https://codepen.io
+
+-GIT 
+# https://education.github.com/git-cheat-sheet-education.pdf
+
+-VI 
+# https://www.ferrari.pro.br/home/documents/FFerrari-vi-card.pdf

@@ -1,7 +1,7 @@
 
 config básicas: 
-$ git config --global user.name "Fulano da Silva"
-$ git config --global user.email fulanodasilva.git@gmail.com
+$ git config --global user.name "Raul França"
+$ git config --global user.email raulmfranca@gmail.com
 
 Para visualizar: 
 git config --list
@@ -38,6 +38,14 @@ $ git commit -m "descrição da modificação"
 Verificando alterações realizadas:
 
 $ git log
+
+Como ver o que foi alterado nos arquivos 
+
+$ git diff
+
+Mostra apenas o nome dos arqs que foram alterados 
+
+$ git diff --name-only
 
 Apontando seu projeto para o GitHub
 

@@ -9,7 +9,7 @@ Para visualizar:
 Criando um repositório:
  git init
 
-Mostra o status dos arquivo:s 
+Mostra o status dos arquivos: 
  git status 
 
 Adiciona a o monitoramento: 
@@ -21,5 +21,4 @@ Para dar um commit:
 
 Ver commits:
 git log
-
-diretório para acesso rápido a dicas, helps próprios e links para relembrar comando e duvidas que eu ja tive
+	

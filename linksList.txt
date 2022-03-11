@@ -5,12 +5,27 @@ Lista de links
 # https://devdocs.io
 # https://www.geeksforgeeks.org
 # https://www.tutorialspoint.com
+# https://www.freecodecamp.org
+
+
 -Templetes e exemplos 
 
 # https://codepen.io
 
+-CSS
+
+# https://grid.layoutit.com
+# https://csslayout.io
+# https://griddy.io
+# https://purecss.io
+# https://cssgrid-generator.netlify.app
+# https://loading.io
+# https://css.glass
+
 -GIT 
+
 # https://education.github.com/git-cheat-sheet-education.pdf
 
 -VI 
+
 # https://www.ferrari.pro.br/home/documents/FFerrari-vi-card.pdf

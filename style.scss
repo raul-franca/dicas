@@ -6,8 +6,14 @@ body{
 a{
     text-decoration: none;
 }
+.grid {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 10px;
+
+}
 .glass{
-    
+
     width: 400px;
     padding-top: 20px;
     padding-bottom: 50px;

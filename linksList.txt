@@ -3,6 +3,7 @@ Lista de links
 -Tutorias e documentação 
 
 # https://devdocs.io
+# https://www.w3schools.com
 # https://www.geeksforgeeks.org
 # https://www.tutorialspoint.com
 # https://www.freecodecamp.org

@@ -23,6 +23,10 @@ Lista de links
 # https://loading.io
 # https://css.glass
 
+-Meus cursos pagos 
+# https://www.origamid.com
+#https://alunos.b7web.com.br/login
+ 
 -GIT 
 
 # https://education.github.com/git-cheat-sheet-education.pdf

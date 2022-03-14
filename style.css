@@ -111,6 +111,40 @@ body {
   border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
+.cards {
+  display: flex;
+
+
+  /* Put a card in the next row when previous cards take all width */
+  flex-wrap: wrap;
+
+  margin-left: 50px;
+  margin-right: -8px;
+}
+
+.cards__item {
+  /* There will be 4 cards per row */
+  width: 350px;
+  margin-left: 20px;
+  margin-top: 60px;
+  padding: 15px;
+   font-family: "Lucida Grande";
+
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+
+  flex-basis: 25%;
+
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+
 a{
   text-decoration: none;
   color: #0a0a23;

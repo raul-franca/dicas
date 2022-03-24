@@ -3,7 +3,15 @@ git status
 git add -A 
 git commit -m “[descriptive message]”
 git push <destino> master 
+git push -u <destino> <branch>
 
+echo "# CRUD-PHP" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/raul-franca/CRUD-PHP.git
+git push -u origin main
 
 config básicas: 
  git config --global user.name "Raul França"

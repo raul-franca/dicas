@@ -2,11 +2,14 @@ Lista de links
 
 -Tutorias e documentação 
 
+# https://www.php.net
 # https://devdocs.io
 # https://www.w3schools.com
 # https://www.geeksforgeeks.org
 # https://www.tutorialspoint.com
 # https://www.freecodecamp.org
+# https://devhints.io
+# https://www.easyphp.org
 
 
 -Templetes e exemplos 
